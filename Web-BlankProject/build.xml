@@ -53,7 +53,7 @@
 
 	<taskdef name="testng" classname="org.testng.TestNGAntTask">
 		<classpath>
-			<pathelement location="${Web-BlankProject}/lib/testng-6.9.9.jar" />
+			<pathelement location="./lib/testng-6.9.9.jar" />
 		</classpath>
 
 	</taskdef>
