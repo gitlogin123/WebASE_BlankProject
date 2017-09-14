@@ -69,10 +69,10 @@
 
 			<!-- generate report title -->
 
-			<sysproperty key="org.uncommons.reportng.title" value="Test Automation" />
+			<!-- <sysproperty key="org.uncommons.reportng.title" value="Test Automation" />
 
 			<sysproperty key="org.uncommons.reportng.escape-output"
-				value="false" />
+				value="false" /> -->
 
 		</testng>
 
