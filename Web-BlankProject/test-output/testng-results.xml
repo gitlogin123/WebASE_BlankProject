@@ -2,27 +2,27 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="New Or Existing Exp Rpt Suite" duration-ms="78463" started-at="2017-09-14T07:01:56Z" finished-at="2017-09-14T07:03:15Z">
+  <suite name="New Or Existing Exp Rpt Suite" duration-ms="56088" started-at="2017-09-18T07:54:16Z" finished-at="2017-09-18T07:55:12Z">
     <groups>
       <group name="expenceReport">
         <method signature="CreateExpenceReport.newReportUsingBillabletoClient(java.lang.String, java.lang.String)[pri:0, instance:com.framework.test.expences.CreateExpenceReport@64a55e63]" name="newReportUsingBillabletoClient" class="com.framework.test.expences.CreateExpenceReport"/>
       </group> <!-- expenceReport -->
     </groups>
-    <test name="NewExpRepInvalid" duration-ms="78463" started-at="2017-09-14T07:01:56Z" finished-at="2017-09-14T07:03:15Z">
+    <test name="NewExpRepInvalid" duration-ms="56088" started-at="2017-09-18T07:54:16Z" finished-at="2017-09-18T07:55:12Z">
       <class name="com.framework.test.expences.CreateExpenceReport">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.framework.test.expences.CreateExpenceReport@64a55e63]" name="setUp" is-config="true" duration-ms="53687" started-at="2017-09-14T12:31:03Z" finished-at="2017-09-14T12:31:56Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.framework.test.expences.CreateExpenceReport@64a55e63]" name="setUp" is-config="true" duration-ms="30507" started-at="2017-09-18T13:23:46Z" finished-at="2017-09-18T13:24:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="initializeTestSetUp()[pri:0, instance:com.framework.test.expences.CreateExpenceReport@64a55e63]" name="initializeTestSetUp" is-config="true" duration-ms="1" started-at="2017-09-14T12:31:56Z" finished-at="2017-09-14T12:31:56Z">
+        <test-method status="PASS" signature="initializeTestSetUp()[pri:0, instance:com.framework.test.expences.CreateExpenceReport@64a55e63]" name="initializeTestSetUp" is-config="true" duration-ms="1" started-at="2017-09-18T13:24:16Z" finished-at="2017-09-18T13:24:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeTestSetUp -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.framework.test.expences.CreateExpenceReport@64a55e63]" name="beforeClass" is-config="true" duration-ms="1" started-at="2017-09-14T12:31:57Z" finished-at="2017-09-14T12:31:57Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.framework.test.expences.CreateExpenceReport@64a55e63]" name="beforeClass" is-config="true" duration-ms="1" started-at="2017-09-18T13:24:16Z" finished-at="2017-09-18T13:24:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.framework.test.expences.CreateExpenceReport@64a55e63]" name="beforeMethod" is-config="true" duration-ms="59" started-at="2017-09-14T12:32:11Z" finished-at="2017-09-14T12:32:11Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.framework.test.expences.CreateExpenceReport@64a55e63]" name="beforeMethod" is-config="true" duration-ms="43" started-at="2017-09-18T13:24:23Z" finished-at="2017-09-18T13:24:23Z">
           <params>
             <param index="0">
               <value>
@@ -33,7 +33,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="newReportUsingBillabletoClient(java.lang.String, java.lang.String)[pri:0, instance:com.framework.test.expences.CreateExpenceReport@64a55e63]" name="newReportUsingBillabletoClient" duration-ms="63501" started-at="2017-09-14T12:32:11Z" finished-at="2017-09-14T12:33:15Z">
+        <test-method status="PASS" signature="newReportUsingBillabletoClient(java.lang.String, java.lang.String)[pri:0, instance:com.framework.test.expences.CreateExpenceReport@64a55e63]" name="newReportUsingBillabletoClient" duration-ms="49097" started-at="2017-09-18T13:24:23Z" finished-at="2017-09-18T13:25:12Z">
           <params>
             <param index="0">
               <value>
@@ -49,11 +49,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- newReportUsingBillabletoClient -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.framework.test.expences.CreateExpenceReport@64a55e63]" name="afterClass" is-config="true" duration-ms="1" started-at="2017-09-14T12:33:15Z" finished-at="2017-09-14T12:33:15Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, org.testng.ITestContext)[pri:0, instance:com.framework.test.expences.CreateExpenceReport@64a55e63]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-09-14T12:33:15Z" finished-at="2017-09-14T12:33:15Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, org.testng.ITestContext)[pri:0, instance:com.framework.test.expences.CreateExpenceReport@64a55e63]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-09-18T13:25:12Z" finished-at="2017-09-18T13:25:12Z">
           <params>
             <param index="0">
               <value>
@@ -62,18 +58,22 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@35ccc72]]>
+                <![CDATA[org.testng.TestRunner@33e23ceb]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.framework.test.expences.CreateExpenceReport@64a55e63]" name="afterTest" is-config="true" duration-ms="0" started-at="2017-09-14T12:33:15Z" finished-at="2017-09-14T12:33:15Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.framework.test.expences.CreateExpenceReport@64a55e63]" name="afterClass" is-config="true" duration-ms="0" started-at="2017-09-18T13:25:12Z" finished-at="2017-09-18T13:25:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.framework.test.expences.CreateExpenceReport@64a55e63]" name="afterTest" is-config="true" duration-ms="1" started-at="2017-09-18T13:25:12Z" finished-at="2017-09-18T13:25:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.framework.test.expences.CreateExpenceReport@64a55e63]" name="afterSuite" is-config="true" duration-ms="1" started-at="2017-09-14T12:33:20Z" finished-at="2017-09-14T12:33:20Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.framework.test.expences.CreateExpenceReport@64a55e63]" name="afterSuite" is-config="true" duration-ms="1" started-at="2017-09-18T13:25:13Z" finished-at="2017-09-18T13:25:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
