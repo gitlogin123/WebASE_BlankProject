@@ -65,14 +65,8 @@
 		<testng outputdir="./test-output" classpathref="project-classpath"
 			useDefaultListeners="true">
 
-			<xmlfileset dir="." includes="test\resources\runtestng\testng.xml" />
+			<xmlfileset dir="." includes="testng.xml" />
 
-			<!-- generate report title -->
-
-			<!-- <sysproperty key="org.uncommons.reportng.title" value="Test Automation" />
-
-			<sysproperty key="org.uncommons.reportng.escape-output"
-				value="false" /> -->
 
 		</testng>
 
