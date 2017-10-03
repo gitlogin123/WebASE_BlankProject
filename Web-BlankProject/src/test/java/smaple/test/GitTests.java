@@ -1,6 +1,6 @@
 package smaple.test;
 
-public class GitTest {
+public class GitTests {
 
 	public void method1(int num){
 		System.out.println("Print..");
