@@ -1,0 +1,52 @@
+[
+	{ 
+		"pageName": "HomePage",
+	    "name": "Login",
+	    "locateUsing": "xpath",
+	    "locator": ".//*[@id='contactSupportLoginLinkLogin']"
+	},
+	{
+    "pageName": "LoginPage",
+    "name": "Title",
+    "locateUsing": "xpath",
+    "locator": ".//*[@id='SubTitle']"
+  },
+  {
+    "pageName": "LoginPage",
+    "name": "ForgotPassword",
+    "locateUsing": "xpath",
+    "locator": ".//a[contains(text(),'Forgot your password?')]"
+  },
+  {
+    "pageName": "LoginPage",
+    "name": "nextButton",
+    "locateUsing": "xpath",
+    "locator": ".//*[@id='AAWiz__Next']"
+  },
+  {
+    "pageName": "LoginPage",
+    "name": "emailAddress",
+    "locateUsing": "xpath",
+    "locator": ".//*[@id='Username']"
+  },
+  {
+    "pageName": "LoginPage",
+    "name": "Email",
+    "locateUsing": "xpath",
+    "locator": ".//*[@type='email']"
+  },
+  {
+    "pageName": "LoginPage",
+    "name": "Password",
+    "locateUsing": "xpath",
+    "locator": ".//*[@type='password']"
+  },
+  {
+    "pageName": "LoginPage",
+    "name": "LoginBtn",
+    "locateUsing": "xpath",
+    "locator": ".//*[@id='Submit']"
+  }
+
+]
+

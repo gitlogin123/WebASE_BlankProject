@@ -1,0 +1,95 @@
+[
+	{ 
+		"pageName": "MenuSelector",
+	    "name": "NewExpenceReport",
+	    "locateUsing": "xpath",
+	    "locator": "//a[starts-with(text(),'New Expense Report')]"
+	},
+	{ 
+		"pageName": "MenuSelector",
+	    "name": "DateRange",
+	    "locateUsing": "xpath",
+	    "locator": "//a[starts-with(text(),'Use a date range to add some items to a new expense report')]"
+	},
+	{ 
+		"pageName": "MenuSelector",
+	    "name": "AllItems",
+	    "locateUsing": "xpath",
+	    "locator": "//a[starts-with(text(),'Add all items to a new expense report')]"
+	},
+	{ 
+		"pageName": "MenuSelector",
+	    "name": "blankReport",
+	    "locateUsing": "xpath",
+	    "locator": "//a[starts-with(text(),'Start with a blank expense report')]"
+	},
+	{ 
+		"pageName": "MenuSelector",
+	    "name": "nextbtn",
+	    "locateUsing": "xpath",
+	    "locator": ".//*[@id='MainContent_AAWiz__Next']"
+	},
+	
+	{ 
+		"pageName": "MenuSelector",
+	    "name": "reportName",
+	    "locateUsing": "xpath",
+	    "locator": ".//*[@id='MainContent_ClientProjectName']"
+	},
+	{ 
+		"pageName": "MenuSelector",
+	    "name": "reportstartdate",
+	    "locateUsing": "xpath",
+	    "locator": ".//*[@id='MainContent_StartDate_input']"
+	},
+	{ 
+		"pageName": "MenuSelector",
+	    "name": "reportenddate",
+	    "locateUsing": "xpath",
+	    "locator": ".//*[@id='MainContent_EndDate_input']"
+	},
+	{ 
+		"pageName": "MenuSelector",
+	    "name": "reportdesc",
+	    "locateUsing": "xpath",
+	    "locator": ".//*[@id='MainContent_Description']"
+	},
+	{ 
+		"pageName": "MenuSelector",
+	    "name": "nextBtn2",
+	    "locateUsing": "xpath",
+	    "locator": ".//input[@id='MainContent_AAWiz__Next']"
+	},
+	
+	{ 
+		"pageName": "MenuSelector",
+	    "name": "AddRecipts",
+	    "locateUsing": "xpath",
+	    "locator": "//a[starts-with(text(),'Add Receipts')]"
+	},
+	{ 
+		"pageName": "MenuSelector",
+	    "name": "MyWallet",
+	    "locateUsing": "xpath",
+	    "locator": "//a[starts-with(text(),'My Certify Wallet')]"
+	},
+	{ 
+		"pageName": "MenuSelector",
+	    "name": "expenceAlert",
+	    "locateUsing": "xpath",
+	    "locator": "//table[@id='MainContent_ctl06']/tbody"
+	},
+	{ 
+		"pageName": "MenuSelector",
+	    "name": "Billableclient",
+	    "locateUsing": "xpath",
+	    "locator": ".//*[@id='MainContent_Billable']"
+	},
+	{ 
+		"pageName": "MenuSelector",
+	    "name": "StartDate_img",
+	    "locateUsing": "xpath",
+	    "locator": ".//*[@id='MainContent_StartDate_img']"
+	}
+	
+]

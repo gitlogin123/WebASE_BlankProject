@@ -1,0 +1,672 @@
+2017-08-18 14:29:18,858 INFO  [Logs] Verify Login Page Title.. 
+2017-08-18 14:29:24,744 INFO  [Logs] User Enters Credentials.. 
+2017-08-18 14:32:00,614 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-18 14:32:18,529 INFO  [Logs] Current Test Methods Name 
+2017-08-18 14:32:18,564 INFO  [Logs] $       Login with Excel   $ 
+2017-08-18 14:32:18,643 INFO  [Logs] Verify Login Page Title.. 
+2017-08-18 14:32:25,239 INFO  [Logs] User Enters Credentials.. 
+2017-08-18 14:32:36,811 INFO  [Logs] XX             -E---N---D-             XX 
+2017-08-18 14:46:18,176 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-18 14:46:33,155 INFO  [Logs] Current Test Methods Name 
+2017-08-18 14:46:33,174 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-08-18 14:46:33,221 INFO  [Logs] Verify Login Page Title.. 
+2017-08-18 14:46:36,985 INFO  [Logs] User Enters Credentials.. 
+2017-08-18 14:46:49,225 INFO  [Logs] XX             -E---N---D-             XX 
+2017-08-18 15:02:00,834 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-18 15:04:10,516 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-18 15:04:26,407 INFO  [Logs] Current Test Methods Name 
+2017-08-18 15:04:26,426 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-08-18 15:04:26,463 INFO  [Logs] Verify Login Page Title.. 
+2017-08-18 15:04:30,463 INFO  [Logs] User Enters Credentials.. 
+2017-08-18 15:04:37,767 INFO  [Logs] XX             -E---N---D-             XX 
+2017-08-18 15:56:14,425 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-18 15:56:47,263 INFO  [Logs] Current Test Methods Name 
+2017-08-18 16:08:06,370 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-18 16:18:45,240 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-18 16:19:52,519 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-21 11:51:08,072 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-21 11:51:39,956 INFO  [Logs] Current Test Methods Name 
+2017-08-21 11:51:40,006 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-08-21 11:51:40,133 INFO  [Logs] Verify Login Page Title.. 
+2017-08-21 11:51:46,051 INFO  [Logs] User Enters Credentials.. 
+2017-08-21 11:51:54,198 INFO  [Logs] XX             -E---N---D-             XX 
+2017-08-21 12:12:28,970 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-21 12:16:38,538 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-21 12:25:39,224 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-21 13:25:04,550 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-21 14:42:45,334 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-21 14:57:42,893 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-21 14:59:16,773 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-21 15:09:14,688 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-21 15:12:29,283 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-21 15:13:56,330 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-21 16:00:39,838 INFO  [Logs] Initializing WebDriver/Browser 
+2017-08-21 16:59:41,837 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-04 12:16:24,815 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-04 12:17:17,606 INFO  [Logs] Current Test Methods Name 
+2017-09-04 12:17:17,697 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-04 12:17:18,257 INFO  [Logs] Verify Login Page Title.. 
+2017-09-04 12:17:23,012 INFO  [Logs] User Enters Credentials.. 
+2017-09-04 12:17:33,538 INFO  [Logs] XX             -E---N---D-             XX 
+2017-09-04 13:56:16,769 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-04 13:57:02,300 INFO  [Logs] Current Test Methods Name 
+2017-09-04 13:57:02,362 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-04 13:57:02,529 INFO  [Logs] Verify Login Page Title.. 
+2017-09-04 13:57:07,426 INFO  [Logs] User Enters Credentials.. 
+2017-09-04 13:58:36,479 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-04 13:58:53,193 INFO  [Logs] Current Test Methods Name 
+2017-09-04 13:58:53,218 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-04 13:58:53,271 INFO  [Logs] Verify Login Page Title.. 
+2017-09-04 13:58:56,458 INFO  [Logs] User Enters Credentials.. 
+2017-09-04 14:02:20,793 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-04 14:02:37,432 INFO  [Logs] Current Test Methods Name 
+2017-09-04 14:02:37,451 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-04 14:02:37,493 INFO  [Logs] Verify Login Page Title.. 
+2017-09-04 14:02:43,522 INFO  [Logs] User Enters Credentials.. 
+2017-09-04 14:06:31,407 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-04 14:07:02,898 INFO  [Logs] Current Test Methods Name 
+2017-09-04 14:07:02,937 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-04 14:07:03,087 INFO  [Logs] Verify Login Page Title.. 
+2017-09-04 14:07:07,705 INFO  [Logs] User Enters Credentials.. 
+2017-09-04 14:12:08,443 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-04 14:12:25,586 INFO  [Logs] Current Test Methods Name 
+2017-09-04 14:12:25,613 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-04 14:12:25,674 INFO  [Logs] Verify Login Page Title.. 
+2017-09-04 14:12:29,089 INFO  [Logs] User Enters Credentials.. 
+2017-09-04 14:17:08,934 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-04 14:17:24,560 INFO  [Logs] Current Test Methods Name 
+2017-09-04 14:17:24,581 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-04 14:17:24,628 INFO  [Logs] Verify Login Page Title.. 
+2017-09-04 14:17:40,026 INFO  [Logs] User Enters Credentials.. 
+2017-09-04 14:20:44,358 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-04 14:21:05,274 INFO  [Logs] Current Test Methods Name 
+2017-09-04 14:21:05,301 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-04 14:21:05,347 INFO  [Logs] Verify Login Page Title.. 
+2017-09-04 14:21:14,044 INFO  [Logs] User Enters Credentials.. 
+2017-09-04 14:22:55,501 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-04 14:23:12,747 INFO  [Logs] Current Test Methods Name 
+2017-09-04 14:23:12,780 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-04 14:23:12,873 INFO  [Logs] Verify Login Page Title.. 
+2017-09-04 14:23:16,914 INFO  [Logs] User Enters Credentials.. 
+2017-09-04 14:37:27,746 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-04 14:37:43,795 INFO  [Logs] Current Test Methods Name 
+2017-09-04 14:37:43,813 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-04 14:37:43,848 INFO  [Logs] Verify Login Page Title.. 
+2017-09-04 14:37:50,458 INFO  [Logs] User Enters Credentials.. 
+2017-09-04 14:50:30,284 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-04 14:50:50,068 INFO  [Logs] Current Test Methods Name 
+2017-09-04 14:50:50,098 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-04 14:50:50,159 INFO  [Logs] Verify Login Page Title.. 
+2017-09-04 14:50:53,556 INFO  [Logs] User Enters Credentials.. 
+2017-09-04 14:52:35,383 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-04 14:52:53,390 INFO  [Logs] Current Test Methods Name 
+2017-09-04 14:52:53,426 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-04 14:52:53,487 INFO  [Logs] Verify Login Page Title.. 
+2017-09-04 14:53:02,360 INFO  [Logs] User Enters Credentials.. 
+2017-09-04 16:28:08,554 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-04 16:30:01,997 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-04 16:51:17,010 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-04 16:55:50,384 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-04 16:56:11,757 INFO  [Logs] Current Test Methods Name 
+2017-09-04 16:56:11,784 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-04 16:56:11,949 INFO  [Logs] Verify Login Page Title.. 
+2017-09-04 16:56:16,139 INFO  [Logs] User Enters Credentials.. 
+2017-09-04 16:56:57,242 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-04 16:57:11,051 INFO  [Logs] Current Test Methods Name 
+2017-09-04 16:57:11,075 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-04 16:57:11,124 INFO  [Logs] Verify Login Page Title.. 
+2017-09-04 16:57:18,484 INFO  [Logs] User Enters Credentials.. 
+2017-09-04 16:58:17,379 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-04 16:58:32,769 INFO  [Logs] Current Test Methods Name 
+2017-09-04 16:58:32,795 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-04 16:58:32,844 INFO  [Logs] Verify Login Page Title.. 
+2017-09-04 16:58:37,845 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 11:39:04,127 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 11:39:35,879 INFO  [Logs] Current Test Methods Name 
+2017-09-06 11:39:35,924 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 11:39:36,156 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 11:53:27,071 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 11:53:54,261 INFO  [Logs] Current Test Methods Name 
+2017-09-06 11:53:54,283 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 11:53:54,331 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 11:53:58,643 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 11:58:51,639 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 11:59:08,196 INFO  [Logs] Current Test Methods Name 
+2017-09-06 11:59:08,227 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 11:59:08,282 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 11:59:12,891 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 12:26:03,446 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 12:26:26,733 INFO  [Logs] Current Test Methods Name 
+2017-09-06 12:26:26,755 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 12:26:26,804 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 12:26:29,876 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 12:32:50,759 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 12:33:08,499 INFO  [Logs] Current Test Methods Name 
+2017-09-06 12:33:08,531 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 12:33:08,634 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 12:33:12,948 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 12:35:36,707 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 12:35:54,279 INFO  [Logs] Current Test Methods Name 
+2017-09-06 12:35:54,347 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 12:35:54,414 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 12:35:59,621 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 12:39:37,186 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 12:39:54,900 INFO  [Logs] Current Test Methods Name 
+2017-09-06 12:39:54,929 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 12:39:54,988 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 12:40:02,683 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 12:41:27,744 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 12:41:43,805 INFO  [Logs] Current Test Methods Name 
+2017-09-06 12:41:43,829 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 12:41:43,878 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 12:41:57,200 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 12:44:33,164 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 12:44:59,814 INFO  [Logs] Current Test Methods Name 
+2017-09-06 12:44:59,843 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 12:44:59,920 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 12:45:08,633 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 12:46:18,389 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 12:46:34,932 INFO  [Logs] Current Test Methods Name 
+2017-09-06 12:46:34,966 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 12:46:35,025 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 12:46:38,901 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 12:48:58,386 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 12:49:22,681 INFO  [Logs] Current Test Methods Name 
+2017-09-06 12:49:22,712 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 12:49:22,766 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 12:49:33,730 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 13:04:12,958 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 13:05:30,506 INFO  [Logs] Current Test Methods Name 
+2017-09-06 13:05:31,545 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 13:05:32,362 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 13:06:07,544 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 13:36:16,473 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 13:36:46,154 INFO  [Logs] Current Test Methods Name 
+2017-09-06 13:36:46,188 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 13:36:46,349 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 13:36:49,512 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 13:37:47,471 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 13:38:05,417 INFO  [Logs] Current Test Methods Name 
+2017-09-06 13:38:05,455 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 13:38:05,505 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 13:38:08,260 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 14:24:06,293 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 14:24:27,286 INFO  [Logs] Current Test Methods Name 
+2017-09-06 15:46:31,690 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 15:46:48,869 INFO  [Logs] Current Test Methods Name 
+2017-09-06 15:46:48,888 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 15:46:49,108 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 15:46:54,203 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 15:49:08,282 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 15:49:24,118 INFO  [Logs] Current Test Methods Name 
+2017-09-06 15:49:24,149 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 15:49:24,209 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 15:49:29,712 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 16:17:14,593 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 16:17:33,466 INFO  [Logs] Current Test Methods Name 
+2017-09-06 16:17:33,488 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 16:17:33,533 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 16:17:38,130 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 16:20:14,022 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 16:20:32,036 INFO  [Logs] Current Test Methods Name 
+2017-09-06 16:20:32,057 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 16:20:32,103 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 16:20:36,595 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 17:12:51,948 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 17:13:14,278 INFO  [Logs] Current Test Methods Name 
+2017-09-06 17:13:14,302 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 17:13:14,349 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 17:13:18,918 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 17:49:24,416 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 17:49:43,539 INFO  [Logs] Current Test Methods Name 
+2017-09-06 17:49:43,566 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 17:49:43,634 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 17:56:44,883 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 17:56:59,378 INFO  [Logs] Current Test Methods Name 
+2017-09-06 17:56:59,405 INFO  [Logs] Start Test :      Login with Excel   $ 
+2017-09-06 17:56:59,461 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 17:56:59,461 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 18:19:29,951 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 18:19:44,976 INFO  [Logs] Current Test Methods Name 
+2017-09-06 18:19:44,996 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-06 18:19:45,045 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 18:19:45,045 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 18:26:36,228 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 18:26:51,845 INFO  [Logs] Current Test Methods Name 
+2017-09-06 18:26:51,874 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-06 18:26:51,930 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 18:26:51,930 INFO  [Logs] Verify Login Page Title.. 
+2017-09-06 18:38:15,040 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-06 18:38:36,573 INFO  [Logs] Current Test Methods Name 
+2017-09-06 18:38:36,642 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-06 18:38:36,737 INFO  [Logs] User Enters Credentials.. 
+2017-09-06 18:38:36,737 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 11:41:52,704 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 11:42:27,473 INFO  [Logs] Current Test Methods Name 
+2017-09-07 11:42:27,525 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 11:42:27,761 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 11:42:27,761 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 11:55:39,584 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 11:55:58,877 INFO  [Logs] Current Test Methods Name 
+2017-09-07 11:55:58,904 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 11:55:58,977 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 11:55:58,977 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 12:08:02,448 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 12:08:22,175 INFO  [Logs] Current Test Methods Name 
+2017-09-07 12:08:22,199 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 12:08:22,260 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 12:08:22,260 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 12:09:23,080 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 12:09:39,674 INFO  [Logs] Current Test Methods Name 
+2017-09-07 12:09:39,698 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 12:09:39,757 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 12:09:39,757 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 12:10:46,845 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 12:11:05,681 INFO  [Logs] Current Test Methods Name 
+2017-09-07 12:11:05,708 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 12:11:05,768 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 12:11:05,769 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 12:13:36,255 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 12:13:56,338 INFO  [Logs] Current Test Methods Name 
+2017-09-07 12:13:56,362 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 12:13:56,415 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 12:13:56,415 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 12:14:53,428 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 12:15:09,954 INFO  [Logs] Current Test Methods Name 
+2017-09-07 12:15:09,974 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 12:15:10,051 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 12:15:10,052 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 12:16:24,599 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 12:16:45,003 INFO  [Logs] Current Test Methods Name 
+2017-09-07 12:16:45,028 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 12:16:45,085 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 12:16:45,085 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 12:17:38,678 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 12:17:59,868 INFO  [Logs] Current Test Methods Name 
+2017-09-07 12:17:59,891 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 12:17:59,947 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 12:17:59,948 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 12:19:11,553 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 12:19:27,612 INFO  [Logs] Current Test Methods Name 
+2017-09-07 12:19:27,649 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 12:19:27,927 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 12:19:27,928 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 12:22:41,526 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 12:22:57,916 INFO  [Logs] Current Test Methods Name 
+2017-09-07 12:22:57,944 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 12:22:58,012 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 12:22:58,012 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 12:25:17,308 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 12:25:29,271 INFO  [Logs] Current Test Methods Name 
+2017-09-07 12:25:29,290 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 12:25:29,349 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 12:25:29,349 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 12:30:22,861 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 12:30:37,998 INFO  [Logs] Current Test Methods Name 
+2017-09-07 12:30:38,020 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 12:30:38,067 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 12:30:38,067 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 12:32:42,794 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 12:33:00,616 INFO  [Logs] Current Test Methods Name 
+2017-09-07 12:33:00,646 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 12:33:00,695 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 12:33:00,695 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 12:37:20,047 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 12:37:34,919 INFO  [Logs] Current Test Methods Name 
+2017-09-07 12:37:34,934 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 12:37:34,986 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 12:37:34,986 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 12:38:53,856 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 12:39:08,321 INFO  [Logs] Current Test Methods Name 
+2017-09-07 12:39:08,340 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 12:39:08,386 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 12:39:08,386 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 12:43:50,960 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 12:44:05,245 INFO  [Logs] Current Test Methods Name 
+2017-09-07 12:44:05,266 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 12:44:05,321 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 12:44:05,321 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 13:08:18,819 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 13:08:33,260 INFO  [Logs] Current Test Methods Name 
+2017-09-07 13:08:33,280 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 13:08:33,325 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 13:08:33,325 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 13:11:26,838 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 13:11:45,259 INFO  [Logs] Current Test Methods Name 
+2017-09-07 13:11:45,282 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 13:11:45,330 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 13:11:45,330 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 13:13:55,851 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 13:14:10,225 INFO  [Logs] Current Test Methods Name 
+2017-09-07 13:14:10,248 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 13:14:10,303 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 13:14:10,303 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 13:15:50,599 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 13:16:08,482 INFO  [Logs] Current Test Methods Name 
+2017-09-07 13:16:08,505 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 13:16:08,558 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 13:16:08,558 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 13:36:19,825 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 13:36:40,437 INFO  [Logs] Current Test Methods Name 
+2017-09-07 13:36:40,458 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 13:36:40,507 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 13:36:40,508 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 13:51:45,357 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 13:51:59,942 INFO  [Logs] Current Test Methods Name 
+2017-09-07 13:51:59,960 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 13:52:00,014 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 13:52:00,014 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 13:53:26,837 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 13:53:45,960 INFO  [Logs] Current Test Methods Name 
+2017-09-07 13:53:45,991 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 13:53:46,059 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 13:53:46,059 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 13:59:56,208 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 14:00:13,073 INFO  [Logs] Current Test Methods Name 
+2017-09-07 14:00:13,097 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 14:00:13,177 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 14:00:13,177 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 14:02:01,315 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 14:02:16,765 INFO  [Logs] Current Test Methods Name 
+2017-09-07 14:02:16,787 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 14:02:16,837 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 14:02:16,837 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 15:32:39,519 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 15:32:57,321 INFO  [Logs] Current Test Methods Name 
+2017-09-07 15:32:57,342 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 15:32:57,390 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 15:32:57,390 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 15:36:32,819 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 15:36:50,664 INFO  [Logs] Current Test Methods Name 
+2017-09-07 15:36:50,689 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 15:36:50,747 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 15:36:50,747 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 15:41:07,365 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 15:41:22,144 INFO  [Logs] Current Test Methods Name 
+2017-09-07 15:41:22,167 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 15:41:22,224 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 15:41:22,224 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 15:42:46,232 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 15:43:02,567 INFO  [Logs] Current Test Methods Name 
+2017-09-07 15:43:02,594 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 15:43:02,667 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 15:43:02,668 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 15:45:29,511 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 15:45:46,856 INFO  [Logs] Current Test Methods Name 
+2017-09-07 15:45:46,876 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 15:45:46,929 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 15:45:46,929 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 15:47:25,553 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 15:47:39,623 INFO  [Logs] Current Test Methods Name 
+2017-09-07 15:47:39,650 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 15:47:39,704 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 15:47:39,704 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 15:52:46,202 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 15:53:00,016 INFO  [Logs] Current Test Methods Name 
+2017-09-07 15:53:00,041 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 15:53:00,095 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 15:53:00,095 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 15:57:11,801 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 15:57:26,476 INFO  [Logs] Current Test Methods Name 
+2017-09-07 15:57:26,500 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 15:57:26,557 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 15:57:26,557 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 15:58:43,638 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 15:59:02,828 INFO  [Logs] Current Test Methods Name 
+2017-09-07 15:59:02,853 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 15:59:02,909 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 15:59:02,909 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 16:01:59,689 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 16:02:15,785 INFO  [Logs] Current Test Methods Name 
+2017-09-07 16:02:15,810 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 16:02:15,885 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 16:02:15,885 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 16:04:38,169 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 16:05:10,146 INFO  [Logs] Current Test Methods Name 
+2017-09-07 16:05:10,171 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 16:05:10,226 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 16:05:10,226 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 16:07:38,577 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 16:08:08,645 INFO  [Logs] Current Test Methods Name 
+2017-09-07 16:08:08,668 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 16:08:08,720 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 16:08:08,720 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 16:11:27,691 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 16:11:45,570 INFO  [Logs] Current Test Methods Name 
+2017-09-07 16:11:45,590 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 16:11:45,667 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 16:11:45,667 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 16:13:10,648 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 16:13:24,771 INFO  [Logs] Current Test Methods Name 
+2017-09-07 16:13:24,797 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 16:13:24,862 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 16:13:24,862 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 16:51:25,473 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 16:51:40,130 INFO  [Logs] Current Test Methods Name 
+2017-09-07 16:51:40,154 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 16:51:40,213 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 16:51:40,213 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 16:59:31,637 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 16:59:48,503 INFO  [Logs] Current Test Methods Name 
+2017-09-07 16:59:48,534 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 16:59:48,616 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 16:59:48,616 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 17:04:33,990 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 17:04:54,904 INFO  [Logs] Current Test Methods Name 
+2017-09-07 17:04:54,924 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 17:04:54,985 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 17:04:54,985 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 17:06:38,066 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 17:06:53,011 INFO  [Logs] Current Test Methods Name 
+2017-09-07 17:06:53,037 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 17:06:53,092 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 17:06:53,093 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 17:09:48,254 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 17:10:06,321 INFO  [Logs] Current Test Methods Name 
+2017-09-07 17:10:06,346 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 17:10:06,412 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 17:10:06,412 INFO  [Logs] Verify Login Page Title.. 
+2017-09-07 17:11:13,412 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-07 17:11:30,635 INFO  [Logs] Current Test Methods Name 
+2017-09-07 17:11:30,664 INFO  [Logs] Start Test :      Cerity My Wallet test..   $ 
+2017-09-07 17:11:30,732 INFO  [Logs] User Enters Credentials.. 
+2017-09-07 17:11:30,732 INFO  [Logs] Verify Login Page Title.. 
+2017-09-08 14:51:34,754 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-08 14:53:35,837 INFO  [Logs] Current Test Methods Name 
+2017-09-08 14:53:35,965 INFO  [Logs] Current Test Methods Name 
+2017-09-08 14:53:40,766 INFO  [Logs] Current Test Methods Name 
+2017-09-08 14:53:41,157 INFO  [Logs] User Enters Credentials.. 
+2017-09-08 14:53:41,157 INFO  [Logs] Verify Login Page Title.. 
+2017-09-08 14:57:02,858 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-08 14:57:18,255 INFO  [Logs] Current Test Methods Name 
+2017-09-08 14:57:18,303 INFO  [Logs] Current Test Methods Name 
+2017-09-08 14:57:19,302 INFO  [Logs] Current Test Methods Name 
+2017-09-08 14:57:19,425 INFO  [Logs] User Enters Credentials.. 
+2017-09-08 14:57:19,425 INFO  [Logs] Verify Login Page Title.. 
+2017-09-08 15:02:08,636 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-08 15:02:26,737 INFO  [Logs] Current Test Methods Name 
+2017-09-08 15:02:26,791 INFO  [Logs] Current Test Methods Name 
+2017-09-08 15:02:27,868 INFO  [Logs] Current Test Methods Name 
+2017-09-08 15:02:27,954 INFO  [Logs] User Enters Credentials.. 
+2017-09-08 15:02:27,955 INFO  [Logs] Verify Login Page Title.. 
+2017-09-08 15:37:24,505 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-08 15:37:43,003 INFO  [Logs] Current Test Methods Name 
+2017-09-08 15:37:43,043 INFO  [Logs] Current Test Methods Name 
+2017-09-08 15:37:44,100 INFO  [Logs] Current Test Methods Name 
+2017-09-08 15:37:44,216 INFO  [Logs] User Enters Credentials.. 
+2017-09-08 15:37:44,216 INFO  [Logs] Verify Login Page Title.. 
+2017-09-08 15:39:28,867 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-08 15:39:42,819 INFO  [Logs] Current Test Methods Name 
+2017-09-08 15:39:42,863 INFO  [Logs] Current Test Methods Name 
+2017-09-08 15:39:43,907 INFO  [Logs] Current Test Methods Name 
+2017-09-08 15:39:44,003 INFO  [Logs] User Enters Credentials.. 
+2017-09-08 15:39:44,003 INFO  [Logs] Verify Login Page Title.. 
+2017-09-08 15:41:41,025 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-08 15:41:55,154 INFO  [Logs] Current Test Methods Name 
+2017-09-08 15:41:55,196 INFO  [Logs] Current Test Methods Name 
+2017-09-08 15:41:56,361 INFO  [Logs] Current Test Methods Name 
+2017-09-08 15:41:56,436 INFO  [Logs] User Enters Credentials.. 
+2017-09-08 15:41:56,436 INFO  [Logs] Verify Login Page Title.. 
+2017-09-08 16:31:25,349 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-08 16:31:38,455 INFO  [Logs] Current Test Methods Name 
+2017-09-08 16:31:38,489 INFO  [Logs] Current Test Methods Name 
+2017-09-08 16:31:39,543 INFO  [Logs] Current Test Methods Name 
+2017-09-08 16:31:39,656 INFO  [Logs] User Enters Credentials.. 
+2017-09-08 16:31:39,657 INFO  [Logs] Verify Login Page Title.. 
+2017-09-08 16:39:59,538 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-08 16:40:46,656 INFO  [Logs] Current Test Methods Name 
+2017-09-08 16:40:46,702 INFO  [Logs] Current Test Methods Name 
+2017-09-08 16:40:47,747 INFO  [Logs] Current Test Methods Name 
+2017-09-08 16:40:47,809 INFO  [Logs] User Enters Credentials.. 
+2017-09-08 16:40:47,809 INFO  [Logs] Verify Login Page Title.. 
+2017-09-12 12:18:19,136 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-12 12:18:40,969 INFO  [Logs] Current Test Methods Name 
+2017-09-12 12:18:41,060 INFO  [Logs] Current Test Methods Name 
+2017-09-12 12:18:44,578 INFO  [Logs] Current Test Methods Name 
+2017-09-12 12:18:44,677 INFO  [Logs] User Enters Credentials.. 
+2017-09-12 12:18:44,677 INFO  [Logs] Verify Login Page Title.. 
+2017-09-12 12:28:37,500 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-12 12:28:52,785 INFO  [Logs] Current Test Methods Name 
+2017-09-12 12:28:52,829 INFO  [Logs] Current Test Methods Name 
+2017-09-12 12:28:53,950 INFO  [Logs] Current Test Methods Name 
+2017-09-12 12:28:54,022 INFO  [Logs] User Enters Credentials.. 
+2017-09-12 12:28:54,022 INFO  [Logs] Verify Login Page Title.. 
+2017-09-12 12:32:59,813 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-12 12:33:13,046 INFO  [Logs] Current Test Methods Name 
+2017-09-12 12:33:13,092 INFO  [Logs] Current Test Methods Name 
+2017-09-12 12:33:14,203 INFO  [Logs] Current Test Methods Name 
+2017-09-12 12:33:14,266 INFO  [Logs] User Enters Credentials.. 
+2017-09-12 12:33:14,266 INFO  [Logs] Verify Login Page Title.. 
+2017-09-12 13:09:19,287 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-12 13:09:32,479 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:09:32,519 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:09:33,502 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:09:33,568 INFO  [Logs] User Enters Credentials.. 
+2017-09-12 13:09:33,568 INFO  [Logs] Verify Login Page Title.. 
+2017-09-12 13:17:46,351 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-12 13:18:01,003 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:18:01,027 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:18:02,035 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:18:02,103 INFO  [Logs] User Enters Credentials.. 
+2017-09-12 13:18:02,104 INFO  [Logs] Verify Login Page Title.. 
+2017-09-12 13:21:34,733 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-12 13:21:50,738 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:21:50,772 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:21:51,802 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:21:51,885 INFO  [Logs] User Enters Credentials.. 
+2017-09-12 13:21:51,885 INFO  [Logs] Verify Login Page Title.. 
+2017-09-12 13:45:18,612 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-12 13:45:35,054 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:45:35,090 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:45:36,294 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:45:36,375 INFO  [Logs] User Enters Credentials.. 
+2017-09-12 13:45:36,375 INFO  [Logs] Verify Login Page Title.. 
+2017-09-12 13:49:17,423 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-12 13:49:31,919 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:49:31,976 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:49:33,006 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:49:33,108 INFO  [Logs] User Enters Credentials.. 
+2017-09-12 13:49:33,108 INFO  [Logs] Verify Login Page Title.. 
+2017-09-12 13:55:36,881 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-12 13:55:48,175 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:55:48,212 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:55:49,354 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:55:49,470 INFO  [Logs] User Enters Credentials.. 
+2017-09-12 13:55:49,470 INFO  [Logs] Verify Login Page Title.. 
+2017-09-12 13:58:18,174 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-12 13:58:31,630 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:58:31,671 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:58:32,670 INFO  [Logs] Current Test Methods Name 
+2017-09-12 13:58:32,746 INFO  [Logs] User Enters Credentials.. 
+2017-09-12 13:58:32,746 INFO  [Logs] Verify Login Page Title.. 
+2017-09-12 14:01:49,669 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-12 14:02:02,686 INFO  [Logs] Current Test Methods Name 
+2017-09-12 14:02:02,719 INFO  [Logs] Current Test Methods Name 
+2017-09-12 14:02:03,734 INFO  [Logs] Current Test Methods Name 
+2017-09-12 14:02:03,802 INFO  [Logs] User Enters Credentials.. 
+2017-09-12 14:02:03,802 INFO  [Logs] Verify Login Page Title.. 
+2017-09-12 14:03:29,397 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-12 14:03:44,274 INFO  [Logs] Current Test Methods Name 
+2017-09-12 14:03:44,316 INFO  [Logs] Current Test Methods Name 
+2017-09-12 14:03:45,297 INFO  [Logs] Current Test Methods Name 
+2017-09-12 14:03:45,379 INFO  [Logs] User Enters Credentials.. 
+2017-09-12 14:03:45,379 INFO  [Logs] Verify Login Page Title.. 
+2017-09-12 14:09:51,567 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-12 14:10:04,639 INFO  [Logs] Current Test Methods Name 
+2017-09-12 14:10:04,670 INFO  [Logs] Current Test Methods Name 
+2017-09-12 14:10:05,557 INFO  [Logs] Current Test Methods Name 
+2017-09-12 14:10:05,626 INFO  [Logs] User Enters Credentials.. 
+2017-09-12 14:10:05,626 INFO  [Logs] Verify Login Page Title.. 
+2017-09-12 14:37:39,254 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-12 14:38:07,603 INFO  [Logs] Current Test Methods Name 
+2017-09-12 14:38:07,633 INFO  [Logs] Current Test Methods Name 
+2017-09-12 14:38:08,520 INFO  [Logs] Current Test Methods Name 
+2017-09-12 14:38:08,591 INFO  [Logs] User Enters Credentials.. 
+2017-09-12 14:38:08,591 INFO  [Logs] Verify Login Page Title.. 
+2017-09-12 14:38:59,087 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-12 14:39:21,481 INFO  [Logs] Current Test Methods Name 
+2017-09-12 14:39:21,522 INFO  [Logs] Current Test Methods Name 
+2017-09-12 14:39:22,577 INFO  [Logs] Current Test Methods Name 
+2017-09-12 14:39:22,655 INFO  [Logs] User Enters Credentials.. 
+2017-09-12 14:39:22,655 INFO  [Logs] Verify Login Page Title.. 
+2017-09-13 11:32:02,725 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-13 11:35:23,230 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-13 11:36:14,640 INFO  [Logs] Current Test Methods Name 
+2017-09-13 11:36:14,700 INFO  [Logs] Current Test Methods Name 
+2017-09-13 11:36:33,307 INFO  [Logs] Current Test Methods Name 
+2017-09-13 11:36:35,824 INFO  [Logs] User Enters Credentials.. 
+2017-09-13 11:36:35,824 INFO  [Logs] Verify Login Page Title.. 
+2017-09-13 11:43:13,711 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-13 11:44:07,787 INFO  [Logs] Current Test Methods Name 
+2017-09-13 11:44:07,948 INFO  [Logs] Current Test Methods Name 
+2017-09-13 11:44:19,018 INFO  [Logs] Current Test Methods Name 
+2017-09-13 11:44:19,460 INFO  [Logs] User Enters Credentials.. 
+2017-09-13 11:44:19,460 INFO  [Logs] Verify Login Page Title.. 
+2017-09-13 11:45:33,359 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-13 11:45:59,618 INFO  [Logs] Current Test Methods Name 
+2017-09-13 11:45:59,667 INFO  [Logs] Current Test Methods Name 
+2017-09-13 11:46:06,651 INFO  [Logs] Current Test Methods Name 
+2017-09-13 11:46:07,182 INFO  [Logs] User Enters Credentials.. 
+2017-09-13 11:46:07,182 INFO  [Logs] Verify Login Page Title.. 
+2017-09-13 12:20:25,360 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-13 12:21:22,037 INFO  [Logs] Current Test Methods Name 
+2017-09-13 12:21:22,179 INFO  [Logs] Current Test Methods Name 
+2017-09-13 12:21:28,493 INFO  [Logs] Current Test Methods Name 
+2017-09-13 12:21:29,324 INFO  [Logs] User Enters Credentials.. 
+2017-09-13 12:21:29,324 INFO  [Logs] Verify Login Page Title.. 
+2017-09-13 12:24:57,240 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-13 12:25:24,782 INFO  [Logs] Current Test Methods Name 
+2017-09-13 12:25:24,805 INFO  [Logs] Current Test Methods Name 
+2017-09-13 12:25:33,013 INFO  [Logs] Current Test Methods Name 
+2017-09-13 12:25:35,170 INFO  [Logs] User Enters Credentials.. 
+2017-09-13 12:25:35,170 INFO  [Logs] Verify Login Page Title.. 
+2017-09-13 12:29:57,249 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-13 12:30:55,957 INFO  [Logs] Current Test Methods Name 
+2017-09-13 12:30:56,037 INFO  [Logs] Current Test Methods Name 
+2017-09-13 12:31:23,272 INFO  [Logs] Current Test Methods Name 
+2017-09-13 12:31:23,906 INFO  [Logs] User Enters Credentials.. 
+2017-09-13 12:31:23,906 INFO  [Logs] Verify Login Page Title.. 
+2017-09-13 12:40:52,156 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-13 12:41:53,120 INFO  [Logs] Current Test Methods Name 
+2017-09-13 12:41:53,152 INFO  [Logs] Current Test Methods Name 
+2017-09-13 12:42:04,327 INFO  [Logs] Current Test Methods Name 
+2017-09-13 12:42:06,121 INFO  [Logs] User Enters Credentials.. 
+2017-09-13 12:42:06,121 INFO  [Logs] Verify Login Page Title.. 
+2017-09-13 15:53:32,628 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-13 15:53:53,022 INFO  [Logs] Current Test Methods Name 
+2017-09-13 15:53:53,045 INFO  [Logs] Current Test Methods Name 
+2017-09-13 15:53:56,221 INFO  [Logs] Current Test Methods Name 
+2017-09-13 15:53:57,877 INFO  [Logs] User Enters Credentials.. 
+2017-09-13 15:53:57,877 INFO  [Logs] Verify Login Page Title.. 
+2017-09-14 14:18:25,617 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-14 14:18:54,334 INFO  [Logs] Current Test Methods Name 
+2017-09-14 14:18:54,450 INFO  [Logs] User Enters Credentials.. 
+2017-09-14 14:18:54,450 INFO  [Logs] Verify Login Page Title.. 
+2017-09-18 13:23:46,394 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-18 13:24:23,686 INFO  [Logs] Current Test Methods Name 
+2017-09-18 13:24:23,846 INFO  [Logs] User Enters Credentials.. 
+2017-09-18 13:24:23,846 INFO  [Logs] Verify Login Page Title.. 
+2017-09-18 13:30:41,147 INFO  [Logs] Initializing WebDriver/Browser 
+2017-09-18 13:31:22,024 INFO  [Logs] Current Test Methods Name 
+2017-09-18 13:31:22,176 INFO  [Logs] User Enters Credentials.. 
+2017-09-18 13:31:22,176 INFO  [Logs] Verify Login Page Title.. 

@@ -10,8 +10,15 @@
     <classes>
       <class name="com.framework.test.expences.CreateExpenceReport">
         <methods>
-          <include name="newReportUsingBillabletoClient"/>
+          <include name="afterClass"/>
+          <include name="newReportUsingBillabletoClient" invocation-numbers="0"/>
           <include name="setUp"/>
+          <include name="afterSuite"/>
+          <include name="initializeTestSetUp"/>
+          <include name="beforeClass"/>
+          <include name="afterMethod"/>
+          <include name="afterTest"/>
+          <include name="beforeMethod"/>
         </methods>
       </class> <!-- com.framework.test.expences.CreateExpenceReport -->
     </classes>

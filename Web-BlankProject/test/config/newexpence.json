@@ -1,0 +1,8 @@
+[
+	{ 
+		"pageName": "NewOrExistingExpRpt",
+	    "name": "blankExpence",
+	    "locateUsing": "xpath",
+	    "locator": "//a[starts-with(text(),'Start with a blank expense report')]"
+	}
+]
