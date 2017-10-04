@@ -19,5 +19,6 @@ public class PullRequest extends WebDriverTest{
 		
 		/* Login Page Methods */
 		LoginPage.doLogin("Data1","Data2");
+		system.out.print("Read to run...");
 	}
 }
