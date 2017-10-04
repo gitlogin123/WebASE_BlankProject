@@ -16,8 +16,9 @@ public class PullRequest extends WebDriverTest{
 		ElementLocatorFactory factory = new FileBasedElementLocatorFactory(
 				bDriver.driver);
 		PageFactory.initElements(factory, new LoginPage());
-		
-		/* Login Page Methods */
+
+		/* comment method added */
+
 		LoginPage.doLogin("Data1","Data2");
 		system.out.print("Read to run...");
 	}
